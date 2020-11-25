@@ -7,5 +7,16 @@ I'm HLQ_Struggle, a Android Develop for Heibei, China. :cn:
 - :hammer_and_pick: Java / Kotlin / Dart, a little bit JavaScript 
 - :pencil2: Android / Flutter / WeChat Mini Program 
 - :mouse: Like :snowflake: :cat: :dog: :rice: :ramen: :apple:
-- :gift: :pray: [Prepare to enter the company of my dreams](https://www.bytedance.com/zh/) :muscle: :walking::running:
+- :muscle: [Prepare to enter the company of my dreams](https://www.bytedance.com/zh/) :running:
 - :four_leaf_clover: How to make life better?
+- :star2: Just do it. 
+
+## How to find me?
+
+- [JueJin](https://juejin.im/user/3157453123092488/posts)
+- [SegmentFault](https://segmentfault.com/blog/hlq96)
+- [CSDN](https://heliquan.blog.csdn.net/)
+
+Of course, if you are interested in paying attention to the official account, you are also grateful~
+
+![](https://github.com/HLQ-Struggle/LeetCodePro/blob/master/image/wx_gzh.png?raw=true)
