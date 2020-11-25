@@ -4,7 +4,7 @@
 
 I'm HLQ_Struggle, a Android Develop for Heibei, China. :cn:
 
-- :hammer_and_pick: Java / Kotlin / Dart, a little bit JavaScript 
+- :hammer_and_pick: Java / Kotlin / Dart, a little bit JavaScript / H5
 - :pencil2: Android / Flutter / WeChat Mini Program 
 - :mouse: Like :snowflake: :cat: :dog: :rice: :ramen: :apple:
 - :muscle: [Prepare to enter the company of my dreams](https://www.bytedance.com/zh/) :running:
