@@ -14,7 +14,7 @@ I'm HLQ_Struggle, a Android Develop for Heibei, China. :cn:
 ## How to find me?
 
 - [JueJin](https://juejin.im/user/3157453123092488/posts)
-- [SegmentFault](https://segmentfault.com/blog/hlq96)
+- [SegmentFault](https://segmentfault.com/blog/hlq_struggle)
 - [CSDN](https://heliquan.blog.csdn.net/)
 
 Of course, if you are interested in paying attention to the official account, you are also grateful~
